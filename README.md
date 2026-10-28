@@ -1,7 +1,7 @@
 # 🃏 Card Battle Engine — Object-Oriented Java Simulation Architecture
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=450A0A,DC2626,F87171&height=220&section=header&text=Card%20Battle%20Engine&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Object-Oriented%20Java%20Card%20Game%20Simulation%20Architecture&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="Card Battle Engine Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:450A0A,50:DC2626,100:F87171&customColorList=450A0A,DC2626,F87171&height=220&section=header&text=Card%20Battle%20Engine&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Object-Oriented%20Java%20Card%20Game%20Simulation%20Architecture&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Card Battle Engine Banner" />
 </p>
 
 <p align="center">
@@ -189,5 +189,5 @@ Contributions, bug reports, and architectural discussions are welcome!
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=450A0A,DC2626,F87171&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:450A0A,50:DC2626,100:F87171&customColorList=450A0A,DC2626,F87171&height=100&section=footer" width="100%" alt="Footer Banner" />
 </p>
